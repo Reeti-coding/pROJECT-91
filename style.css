@@ -1,0 +1,80 @@
+body
+{
+	background-image: url("https://cdn.wallpapersafari.com/8/79/swQOLN.jpg");
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		width: 30%;
+		height: 150px;
+		background-color:blueviolet ;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 3px;
+	color: crimson;
+
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+	background: pink;
+	border-radius: 10px;
+	border-top: 10px solid red;
+	padding: 10px;
+	float: none;
+	text-align: left;
+}
+h1{
+	color: purple;
+	font-family: cursive;
+}
+h3{
+	font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	color: teal;
+}
+#username{
+	font-family:  cursive;
+	color: turquoise;
+}
+button{
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+input:hover{
+	background-color: yellowgreen;
+}
+.login_div2:hover{
+	border: 5px solid cyan;
+	width: 35%;
+}
+.login_div1:hover{
+	border: 5px solid turquoise;
+	width: 35%;
+}
+#number_1,#number_2
+{
+	color:violet;
+	font-weight: bold;
+}
+h4{
+	color:slateblue;
+	font-family: cursive;
+	width: 100px;
+}
+h4:hover{
+	text-decoration: underline;
+}
